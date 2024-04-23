@@ -1,6 +1,6 @@
 # dio-lab-computer-vision
 
-Neste desafio da DIO, precisei criar um novo recurso no Azure (em IA + Machine Learning) e logá-lo com o Vision Studio - conjunto de ferramentas sobre visão computacional. Abaixo estarão os procedimentos que realizei, na pasta <i>Input</i> estão as imagens que utilizei e na pasta  <i>Output</i> estão os resultados das experiências.
+Neste desafio da DIO sobre Visão Computacional, precisei criar um novo recurso no Azure (em IA + Machine Learning) e logá-lo com o Vision Studio - conjunto de ferramentas sobre visão computacional. Abaixo estarão os procedimentos que realizei, na pasta <i>Input</i> estão as imagens que utilizei e na pasta  <i>Output</i> estão os resultados das experiências - com o intuito de entender melhor sobre como a Inteligência Artificial da Azure trabalha com relação à interpretação de imagens.
 <br>
 <br>
 
